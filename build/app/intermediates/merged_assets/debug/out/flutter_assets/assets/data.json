@@ -1,0 +1,26 @@
+[
+  {
+    "placeImage": "images/img1.jpg",
+    "placeName": "Bowl Company",
+    "placeItems": ["Italian", "Fast food", "Salads","Juice"],
+    "minOrder": "200"
+  },
+  {
+  "placeImage": "images/img3.jpeg",
+  "placeName": "Subway",
+  "placeItems": ["Subs", "Fast food", "Salads","Juice"],
+  "minOrder": "300"
+  },
+  {
+    "placeImage": "images/img2.jpeg",
+    "placeName": "Bread Factory",
+    "placeItems": ["Breads", "Fast food", "Salads","Juice"],
+    "minOrder": "150"
+  },
+  {
+    "placeImage": "images/img4.jpeg",
+    "placeName": "VegWay",
+    "placeItems": ["Burgers", "Fast food", "Salads","Juice"],
+    "minOrder": "250"
+  }
+]
